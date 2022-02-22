@@ -1,0 +1,14 @@
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\bin\Debug\netcoreapp3.1\Run-Away.exe
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\bin\Debug\netcoreapp3.1\Run-Away.deps.json
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\bin\Debug\netcoreapp3.1\Run-Away.runtimeconfig.json
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\bin\Debug\netcoreapp3.1\Run-Away.runtimeconfig.dev.json
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\bin\Debug\netcoreapp3.1\Run-Away.dll
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\bin\Debug\netcoreapp3.1\Run-Away.pdb
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\obj\Debug\netcoreapp3.1\Run-Away.csproj.AssemblyReference.cache
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\obj\Debug\netcoreapp3.1\Run-Away.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\obj\Debug\netcoreapp3.1\Run-Away.AssemblyInfoInputs.cache
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\obj\Debug\netcoreapp3.1\Run-Away.AssemblyInfo.cs
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\obj\Debug\netcoreapp3.1\Run-Away.csproj.CoreCompileInputs.cache
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\obj\Debug\netcoreapp3.1\Run-Away.dll
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\obj\Debug\netcoreapp3.1\Run-Away.pdb
+C:\Users\young\Downloads\GameDev-Proj\Run-Away\Run-Away\obj\Debug\netcoreapp3.1\Run-Away.genruntimeconfig.cache
